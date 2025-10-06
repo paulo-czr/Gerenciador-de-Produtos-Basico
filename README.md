@@ -34,6 +34,6 @@ Este projeto foi desenvolvido com fins educacionais, utilizando conceitos básic
 - Form.java → Interface gráfica com os campos, botões e lógica do sistema.
 
 ## 👤 Autor
-Desenvolvido por Paulo Cesar.
-📧 PauloCesarCoder@gmail.com
+Desenvolvido por Paulo Cesar.  
+📧 PauloCesarCoder@gmail.com  
 🌐 https://github.com/paulo-czr
