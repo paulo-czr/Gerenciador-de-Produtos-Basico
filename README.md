@@ -5,7 +5,7 @@ Este projeto foi desenvolvido com fins educacionais, utilizando conceitos básic
 
 ---
 
-## 🧩 Funcionalidades
+## Funcionalidades
 
 - Cadastro de produto com:
   - Código  
@@ -18,7 +18,7 @@ Este projeto foi desenvolvido com fins educacionais, utilizando conceitos básic
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 1. Certifique-se de ter o **Java JDK** instalado (versão 8 ou superior).  
 2. Baixe ou clone este repositório:
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido com fins educacionais, utilizando conceitos básic
 4. Execute a classe: gerenciadordeprodutos.Main
 5. A janela do sistema será aberta, permitindo cadastrar e calcular os produtos.
 
-## 🧠 Estrutura do projeto
+## Estrutura do projeto
 - Main.java → Classe principal que inicia o formulário.
 - Produto.java → Classe de modelo que representa os produtos (atributos e métodos).
 - Form.java → Interface gráfica com os campos, botões e lógica do sistema.
