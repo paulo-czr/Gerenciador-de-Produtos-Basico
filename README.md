@@ -27,6 +27,7 @@ Este projeto foi desenvolvido com fins educacionais, utilizando conceitos básic
 3. Abra o projeto em uma IDE como NetBeans ou IntelliJ IDEA.
 4. Execute a classe: gerenciadordeprodutos.Main
 5. A janela do sistema será aberta, permitindo cadastrar e calcular os produtos.
+Você pode ver a interface aqui: https://encurtador.com.br/qPp4G
 
 ## Estrutura do projeto
 - Main.java → Classe principal que inicia o formulário.
